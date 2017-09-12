@@ -4,10 +4,9 @@
             "id":       "Reference_Labels",
             "title":    "Place Labels",
             "subtitle": "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>, Natural Earth",
-            "tags":     "osm reference",
+            "tags":     "osm reference, country, countries, state, province, cities, city",
             "group":    "overlays",
             "type":     "wmts",
-            "tags":     "country, countries, state, province, cities, city",
             "noTransition":     "true",
             "layergroup": [
               "reference"
