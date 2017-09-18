@@ -1,6 +1,6 @@
 {
   "name": "worldview-options-eosdis",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "release": "1",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "npm lint",
-    "eslint": "eslint . --ext .json common/**/wv.*.js release/config.json"
+    "eslint": "eslint . --ext=json -f stylish"
   },
   "devDependencies": {
     "eslint": "^4.6.1",
